@@ -28,10 +28,13 @@ password , name , phone ,address via validation
 
 ### Executing program
 
-* ``` cd ./frontend```
-* npm install
 * ``` cd ./backend```
 * npm install
+* node server.js
+* ``` cd ./frontend```
+* npm install
+* npm start
+
 
 
 ## Authors
